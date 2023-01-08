@@ -38,12 +38,7 @@ NextJS Events Demo created by Rocio Piotti is a demo project created for the [Ne
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rociopiotti/restaurants-list/main/src/images/restaurant-list-screenshot.png" alt="project screenshot" height="400">
-</p>
-
-
-Restaurants list demo created by Rocio Piotti provides the user with a list of events. The list can be filtered by year and month.
+NextJS Events Demo created by Rocio Piotti is a demo project created for the [Next.js & React - The Complete Guide Course.](https://www.udemy.com/course/the-complete-react-fullstack-course/)
 
 ### Features to develop
 
